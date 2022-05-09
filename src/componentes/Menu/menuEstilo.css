@@ -1,0 +1,17 @@
+.card-menu{
+    background-color: blue;
+    color: aliceblue;
+}
+.card-menu-botoes{
+    display: flex;
+    padding-right: 5px;
+}
+.card-logo{
+    padding: 10px;
+}
+.card-botoes{
+    background-color: #140D4F;
+    padding: 5px;
+    margin: 25px;
+
+}

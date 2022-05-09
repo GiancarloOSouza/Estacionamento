@@ -1,0 +1,23 @@
+.card-vagas-global{
+    text-align: center;
+}
+.card-vagas-setor{
+    display: flex;
+    padding: 10px;
+    color: aliceblue
+}                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                   
+.card-vagas-setNum{
+    text-align: center;
+}
+.card-vagas-num{
+    background-color: #1282A2;
+    text-align: center;
+}
+.card-vagas-setor{
+    text-align: justify;
+    background-color: blue;
+}
+.card-vagas{
+    padding: 10px;
+    padding-right: 50px;
+}

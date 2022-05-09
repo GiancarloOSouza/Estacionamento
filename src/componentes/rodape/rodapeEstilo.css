@@ -1,0 +1,16 @@
+.card-rodape{
+    background-color: blue;
+    color: aliceblue;
+    display: flex;
+}
+.card-titulo{
+    background-color: #140D4F;
+    padding: 5px;
+    border: 10px;
+}
+.card-menu-rodape{
+    
+}
+.card-logo{
+    padding: 50px;
+}
